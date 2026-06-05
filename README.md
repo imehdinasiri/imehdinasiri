@@ -86,13 +86,6 @@ Database management system for managing vehicle repair workflows, including CRUD
 
 ---
 
-## Connect With Me
-
-- GitHub: https://github.com/imehdinasiri
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-
----
-
 <div align="center">
 
 *"Learning, building, and applying AI to real-world problems."*
