@@ -79,14 +79,32 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 *"Learning, building, and applying AI to real-world problems."*
 
 </div>
+---
 
-### Github Stats 🐍
+## GitHub Statistics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=imehdinasiri&show_icons=true" />
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=imehdinasiri&layout=compact" />
+
+</div>
+---
+
+## GitHub Activity & Contributions 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/imehdinasiri/imehdinasiri/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
