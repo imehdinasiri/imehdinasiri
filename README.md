@@ -57,7 +57,7 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 
 | Category | Project Name | Description |
 |----------|-------------|-------------|
-| Bioinformatics | [Breast Cancer Prediction]([REPO_LINK_HERE](https://github.com/imehdinasiri/Breast-Cancer-Prediction-mRNA-Based)) | Machine learning pipeline for breast cancer metastasis prediction using TCGA multi-omics and gene expression data. |
+| Bioinformatics | [Breast Cancer Prediction]((https://github.com/imehdinasiri/Breast-Cancer-Prediction-mRNA-Based)) | Machine learning pipeline for breast cancer metastasis prediction using TCGA multi-omics and gene expression data. |
 | Machine Learning | [Iris Classification Analysis](https://github.com/imehdinasiri/Iris-Classification-Analysis) | Comparative analysis of seven machine learning classifiers with PCA-based dimensionality reduction and performance evaluation. |
 | Compiler Design | [Lexical Analyzer](https://github.com/imehdinasiri/Lexical-Analyzer) | Educational compiler front-end in Python implementing lexical analysis and recursive descent parsing. |
 | Database Systems | [Vehicle Repair Reception System](https://github.com/imehdinasiri/Vehicle-Repair-Reception-System) | Database management system for vehicle repair workflow, including CRUD operations, reporting, and ER modeling. |
@@ -81,17 +81,17 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 </div>
 ---
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=imehdinasiri&show_icons=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=imehdinasiri&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=imehdinasiri&layout=compact" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imehdinasiri&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
+
 ---
 
 ## GitHub Activity & Contributions 🐍
