@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm Mehdi Nasiri 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mehdi+Nasiri+👋;Machine+Learning+%26+Data+Science+Researcher;Bioinformatics+and+Predictive+Modeling;Research+Intern+at+Khayyam+AI+Lab;Python+Developer)](https://git.io/typing-svg)
 
-### Machine Learning | Data Science | Bioinformatics
+</div>
 
-Exploring machine learning, data science, and bioinformatics through research and practical projects.
+## Machine Learning | Data Science | Bioinformatics
+
+I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on experience in predictive modeling, classification systems, and biological data analysis. Currently, I am a Research Intern at Khayyam AI Lab, working on breast cancer prediction and multi-omics data analysis. I enjoy transforming data into meaningful insights and building practical AI solutions using Python and modern machine learning tools.
 
 <p>
   <a href="mailto:mehdinasiri.ce@gmail.com">
@@ -14,23 +16,10 @@ Exploring machine learning, data science, and bioinformatics through research an
   <a href="https://linkedin.com/in/imehdinasiri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/imehdinasiri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  
 </p>
 
 </div>
-
----
-
-## About Me
-
-- 🔬 Research Assistant at Khayyam AI Lab
-- 🧠 Interested in Machine Learning, Data Science, and Bioinformatics
-- 💻 Python Developer
-- 📊 Working on breast cancer prediction using multi-omics biomedical data
-- 🚀 Continuously learning Deep Learning, Data Engineering, and AI applications
 
 ---
 
