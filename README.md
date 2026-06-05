@@ -79,7 +79,7 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 *"Learning, building, and applying AI to real-world problems."*
 
 </div>
----
+
 
 ## GitHub Activity & Contributions 🐍
 
