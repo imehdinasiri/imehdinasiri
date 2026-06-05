@@ -39,8 +39,14 @@ Exploring machine learning, data science, and bioinformatics through research an
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Database Tools
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ### Data Science & Machine Learning
 
@@ -59,20 +65,14 @@ Exploring machine learning, data science, and bioinformatics through research an
 
 ---
 
-## Featured Projects
+### Projects 📁
 
-### 🌸 Iris Classification Analysis
-Comparative analysis of seven machine learning classification algorithms on the Iris dataset, including PCA-based dimensionality reduction, confusion matrices, and performance evaluation.
-
-### 🧬 Breast Cancer Prediction (Research Project)
-Machine learning pipeline for breast cancer metastasis prediction using TCGA multi-omics biomedical datasets.
-
-### ⚙️ Lexical Analyzer
-Educational compiler front-end implemented in Python, featuring lexical analysis and recursive descent parsing.
-
-### 🚗 Vehicle Repair Reception System
-Database management system for managing vehicle repair workflows, including CRUD operations, reporting functionalities, and ER modeling.
-
+| Category | Project Name | Description |
+|----------|-------------|-------------|
+| Bioinformatics | [Breast Cancer Prediction]([REPO_LINK_HERE](https://github.com/imehdinasiri/Breast-Cancer-Prediction-mRNA-Based)) | Machine learning pipeline for breast cancer metastasis prediction using TCGA multi-omics and gene expression data. |
+| Machine Learning | [Iris Classification Analysis](https://github.com/imehdinasiri/Iris-Classification-Analysis) | Comparative analysis of seven machine learning classifiers with PCA-based dimensionality reduction and performance evaluation. |
+| Compiler Design | [Lexical Analyzer](https://github.com/imehdinasiri/Lexical-Analyzer) | Educational compiler front-end in Python implementing lexical analysis and recursive descent parsing. |
+| Database Systems | [Vehicle Repair Reception System](https://github.com/imehdinasiri/Vehicle-Repair-Reception-System) | Database management system for vehicle repair workflow, including CRUD operations, reporting, and ER modeling. |
 ---
 
 ## Research Interests
