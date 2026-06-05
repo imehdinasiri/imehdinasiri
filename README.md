@@ -81,19 +81,6 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 </div>
 ---
 
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=imehdinasiri&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imehdinasiri&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## GitHub Activity & Contributions 🐍
 
 <div align="center">
