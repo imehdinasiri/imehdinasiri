@@ -5,6 +5,7 @@
 </div>
 
 ---
+
 ### Machine Learning | Data Science | Bioinformatics
 
 I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on experience in predictive modeling, classification systems, and biological data analysis. Currently, I am a Research Intern at Khayyam AI Lab, working on breast cancer prediction and multi-omics data analysis. I enjoy transforming data into meaningful insights and building practical AI solutions using Python and modern machine learning tools.
@@ -17,8 +18,8 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
   <a href="https://linkedin.com/in/imehdinasiri">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
 </div>
+
 ---
 
 ## Tech Stack
