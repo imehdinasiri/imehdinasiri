@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Mehdi+Nasiri+👋;Machine+Learning+%26+Data+Science+Researcher;Bioinformatics+and+Predictive+Modeling;Research+Intern+at+Khayyam+AI+Lab;Python+Developer)](https://git.io/typing-svg)
 
 </div>
----
 
+---
 ### Machine Learning | Data Science | Bioinformatics
 
 I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on experience in predictive modeling, classification systems, and biological data analysis. Currently, I am a Research Intern at Khayyam AI Lab, working on breast cancer prediction and multi-omics data analysis. I enjoy transforming data into meaningful insights and building practical AI solutions using Python and modern machine learning tools.
@@ -21,7 +21,6 @@ I focus on Machine Learning, Data Science, and Bioinformatics, with hands-on exp
 </p>
 
 </div>
-
 ---
 
 ## Tech Stack
